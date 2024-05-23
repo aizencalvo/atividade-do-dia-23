@@ -1,0 +1,4 @@
+a=300
+y=160
+resultado=a+y
+print(resultado)
